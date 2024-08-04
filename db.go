@@ -1,7 +1,7 @@
 package db
 
 import (
-	igorm "mayilon/pkg/lib/db/gorm"
+	igorm "github.com/loganrk/go-db/gorm"
 
 	"gorm.io/gorm"
 )
